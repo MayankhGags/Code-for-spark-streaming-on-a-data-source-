@@ -1,0 +1,16 @@
+device_id,timestamp,location,metric_type,metric_value,status
+DEV-101,2026-01-15 10:00:01,Warehouse-A,temperature,22.4,NORMAL
+DEV-102,2026-01-15 10:00:02,Server-Room-1,temperature,28.5,WARNING
+DEV-103,2026-01-15 10:00:03,Warehouse-A,humidity,55.0,NORMAL
+DEV-104,2026-01-15 10:00:04,Factory-Floor,vibration,1.2,NORMAL
+DEV-105,2026-01-15 10:00:05,Server-Room-1,temperature,36.2,CRITICAL
+DEV-101,2026-01-15 10:00:06,Warehouse-A,temperature,23.1,NORMAL
+DEV-102,2026-01-15 10:00:07,Server-Room-1,temperature,29.1,WARNING
+DEV-103,2026-01-15 10:00:08,Warehouse-A,humidity,58.2,NORMAL
+DEV-104,2026-01-15 10:00:09,Factory-Floor,vibration,4.8,WARNING
+DEV-105,2026-01-15 10:00:10,Server-Room-1,temperature,38.0,CRITICAL
+DEV-106,2026-01-15 10:00:11,Factory-Floor,temperature,24.8,NORMAL
+DEV-107,2026-01-15 10:00:12,Warehouse-A,vibration,0.8,NORMAL
+DEV-999,2026-01-15 10:00:13,Warehouse-A,temperature,-999.0,INVALID
+DEV-000,2026-01-15 10:00:14,,temperature,25.0,NORMAL
+DEV-888,2026-01-15 10:00:15,Warehouse-A,humidity,,NORMAL

@@ -1,0 +1,3 @@
+# Spark Structured Streaming Dependencies
+# In production / cluster deployment environments:
+pyspark>=3.3.0

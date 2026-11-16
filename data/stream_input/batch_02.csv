@@ -1,0 +1,7 @@
+device_id,timestamp,location,metric_type,metric_value,status
+DEV-102,2026-01-15 10:00:07,Server-Room-1,temperature,29.1,WARNING
+DEV-103,2026-01-15 10:00:08,Warehouse-A,humidity,58.2,NORMAL
+DEV-104,2026-01-15 10:00:09,Factory-Floor,vibration,4.8,WARNING
+DEV-105,2026-01-15 10:00:10,Server-Room-1,temperature,38.0,CRITICAL
+DEV-106,2026-01-15 10:00:11,Factory-Floor,temperature,24.8,NORMAL
+DEV-107,2026-01-15 10:00:12,Warehouse-A,vibration,0.8,NORMAL
